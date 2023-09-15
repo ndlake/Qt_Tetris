@@ -9,6 +9,8 @@
 #define MIN_HORIZONTAL_MARGIN 20
 #define PIECE_BLOCKS 5
 
+#include "pieces.hpp"
+
 // board class
 class board
 {

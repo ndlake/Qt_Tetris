@@ -1,4 +1,3 @@
-
 #include "pieces.hpp"
 
 int pieces::getElementType(int pieceType, int pieceRotation, int pieceX, int pieceY)

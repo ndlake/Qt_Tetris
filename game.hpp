@@ -1,7 +1,7 @@
 #ifndef GAME_HPP
 #define GAME_HPP
 #include "board.hpp"
-#include "pieces.hpp"
+
 #include "IO.hpp"
 #include <time.h>
 #include <cstdlib>
